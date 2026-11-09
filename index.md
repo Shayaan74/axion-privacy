@@ -118,11 +118,26 @@ Information set by your employer (such as salary or job details) can only be cor
 
 ## 10. Account and data deletion
 
-You can request deletion of your account and associated data by:
-- Contacting your employer's HR department / administrator, or
-- Emailing **shyahmed.06@gmail.com** with the subject "Account Deletion Request", including your name, company and registered phone number
+To request deletion of your AEMS account and data:
 
-We will process the request within 30 days. Some records may be kept where your employer is required by law to keep them (for example, payroll and end-of-service records).
+1. Email **shyahmed.06@gmail.com** with the subject "AEMS Account Deletion Request"
+2. Include your full name, company and registered phone number
+3. We will verify your request with your employer and complete it within 30 days
+
+You can also ask your employer's HR department / administrator to submit the request for you.
+
+**Deleted:**
+- Your account and login details
+- Profile picture
+- Blood group, passport and Emirates ID information
+- Emergency point of contact
+- Support messages and app preferences
+
+**Kept (if your employer is legally required to keep them):**
+- Salary and payment history
+- Leave, gratuity, entitlement and loan records
+
+These records are kept only as long as the law requires for employment and accounting purposes. After that, they are permanently deleted.
 
 ## 11. Children's privacy
 
