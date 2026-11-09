@@ -45,14 +45,19 @@ Within 60 days of your first login, you can add or update:
 - Emergency point of contact
 
 You may also provide:
+- A profile picture (optional)
 - Leave requests (leave type, dates and any reason you enter)
 - Messages sent to support
 - Your account password (used only for authentication)
 - App preferences such as font settings
 
-### c) Information we do NOT collect
+### c) Photos and camera
+If you choose to set a profile picture, the App will ask to access your camera or photo gallery. It only accesses the single image you select or take. The App does not scan, read or upload any other photos from your device. Your profile picture is stored on our servers and is visible to you and authorised administrators of your company. You can change it at any time.
+
+### d) Information we do NOT collect
 - We do not collect your location.
-- We do not access your contacts, camera, microphone or photos.
+- We do not access your contacts or microphone.
+- We do not access your photos or camera except when you choose to set a profile picture.
 - We do not use advertising or advertising identifiers.
 - We do not use third-party analytics or tracking tools.
 
@@ -60,7 +65,7 @@ You may also provide:
 
 We use your information only to:
 - Verify your identity and let you sign in securely
-- Show your employment, payroll, leave, entitlement, gratuity and loan information
+- Show your profile, employment, payroll, leave, entitlement, gratuity and loan information
 - Send your leave requests and support messages to the relevant administrators
 - Show your company's events and in-app notifications
 - Operate, maintain and secure the App
@@ -73,7 +78,7 @@ We use the following service providers to run the App:
 
 | Service | Purpose |
 |---|---|
-| **Railway** (railway.app) | Hosting the App's server and database where your data is stored |
+| **Railway** (railway.app) | Hosting the App's server and database where your data (including profile pictures) is stored |
 | **Formspree** (formspree.io) | Delivering leave requests and support messages by email |
 
 These providers process data only as needed to provide their services. Please see their own privacy policies for more details.
